@@ -1,5 +1,5 @@
 # Run the Homework on Colab
-Run it on Colab at [this link](). No installation is required for Colab.
+Run it on Colab at [this link](https://colab.research.google.com/github/ASzot/rl-habitat-hw/blob/main/homework.ipynb). No installation is required for Colab.
 
 # Run the Homework Locally
 Installation:
@@ -8,7 +8,8 @@ Installation:
 3. Install [Habitat Lab](https://github.com/facebookresearch/habitat-lab) `pip install git+https://github.com/facebookresearch/habitat-lab`
 4. Install PyTorch `pip install torch>=1.3.1`
 5. Install Jupyter Notebook `conda install -c conda-forge notebook`
-Work on the homework in by filling out the cells in `homework.ipynb`.
+
+Work on the homework locally by filling out the cells in `homework.ipynb`.
 
 # Troubleshooting
 
